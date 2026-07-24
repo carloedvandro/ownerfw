@@ -1,1 +1,1 @@
-# App do Gas - Firmware OTA Validation
+# App - Firmware OTA Validation
